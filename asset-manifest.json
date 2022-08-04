@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b943eb7d.css",
+    "main.js": "/static/js/main.6b640908.js",
+    "static/media/Card.jpg": "/static/media/Card.ee802041b40cf0aa39a4.jpg",
+    "static/media/sru-logo.png": "/static/media/sru-logo.ff2150457986ff0dcf2c.png",
+    "index.html": "/index.html",
+    "main.b943eb7d.css.map": "/static/css/main.b943eb7d.css.map",
+    "main.6b640908.js.map": "/static/js/main.6b640908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b943eb7d.css",
+    "static/js/main.6b640908.js"
+  ]
+}
