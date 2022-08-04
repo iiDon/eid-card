@@ -7,8 +7,6 @@ const CardwithName = ({ name }) => {
       <h1 className="text-center text-2xl text-blue-700 cursor-pointer mt-4">
         انقر لإدخال الاسم
       </h1> */}
-
-      {/*  */}
       <div className="">
         <h1 className="text-center text-2xl mt-4 cursor-pointer text-blue-700">اضغط هنا لتحميل الصورة</h1>
         <img
